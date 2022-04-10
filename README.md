@@ -1,1 +1,1 @@
-# -ATO_Crypto_DASH_STYLE2
+# ATO_Crypto_DASH_STYLE2
